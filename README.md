@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Komal-144kb/Komal-144kb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
 
 ## 👋 Hi there, I'm Komal Bhagat!  
 🎓 Final-year **B.Tech IT Student** | 💻 **Full-Stack Developer** | 🤖 **AI & ML Enthusiast**
