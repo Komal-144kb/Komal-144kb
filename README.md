@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hi there, I'm Komal Bhagat!  
-🎓 Final-year **B.Tech IT Student** | 💻 **Full-Stack Developer** | 🤖 **AI & ML Enthusiast**
+🎓 Final-year **B.Tech IT Student** | 💻 **Full-Stack Developer** 
 
 ---
 
 ### 🚀 About Me  
-- 🌱 Currently exploring **MERN Stack** and **Machine Learning**  
-- 💡 Passionate about building **AI-driven web applications** and solving real-world problems  
-- 💬 Ask me about **React.js, Python, Streamlit, and Data Science**  
+- 🌱 Currently exploring **MERN Stack** 
+- 💡 Passionate about building **web applications** and solving real-world problems  
+- 💬 Ask me about **React.js, Node js**  
 - 📚 Always learning new technologies and improving my problem-solving skills  
 - ⚡ Fun fact: I love combining creativity with code to make something meaningful  
 
@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 **Frontend:** HTML, CSS, JavaScript, React.js  
 **Backend:** Node.js, Express.js  
 **Databases:** MySQL, MongoDB (basic)  
-**ML & AI Tools:** Pandas, scikit-learn, Matplotlib, Streamlit, Jupyter Notebook  
-**Other Tools:** Git, GitHub, Google Colab, VS Code  
+**Other Tools:** Git, GitHub, VS Code  
 
 ---
 
